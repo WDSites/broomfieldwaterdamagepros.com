@@ -90,6 +90,7 @@ a:hover{color:var(--char)}
 .has-hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(22,21,16,.9) 0%,rgba(22,21,16,.72) 60%,rgba(22,21,16,.55) 100%);z-index:1}
 .has-hero h1,.has-hero p.sub,.has-hero p.lead,.has-hero .crumb,.has-hero .trustrow{color:#fff}
 .has-hero .crumb a{color:var(--amber)}
+.has-hero .chip{color:var(--char);background:#fff}
 .has-hero h1 span{color:var(--amber)}
 .hero.has-hero{isolation:isolate}
 /* bands */
